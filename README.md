@@ -1,2 +1,2 @@
-# lips
-website for lips
+# lucky
+website of lucky Institute of professional Studies
