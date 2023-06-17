@@ -1,0 +1,220 @@
+.outer{
+    width: 1200px;
+    height: 800px;
+    background-color: #ccc;
+    margin: auto;
+
+}
+.header{
+    width: 1200px;
+    height: 150px;
+    background-color: #768;
+
+}
+.hleft{
+    width: 100px;
+    height:100px;
+    background-color:white;
+    float: left;
+    margin: 20px 0 0 50px;
+    border-radius: 50px;
+    transition: 2s;
+
+
+}
+.hleft:hover{
+
+    margin: 20px;
+      transition: 2s;
+
+}
+.hright{
+    width: 600px;
+    height: 100px;
+    background-color: #fff;
+    float: right;
+    margin: 25px 50px 0 0;
+    font-size: 38px;
+    padding: 10px;
+    box-sizing: border-box;
+   border-radius: 20px;
+   transition: 2s;
+
+}
+.hright:hover{
+    margin: 20px;
+    background-color: yellow;
+    transition: 2s;
+}
+.menubar{
+    width: 1200px;
+    height: 80px;
+    background-color:blue;
+}
+.menus{
+    width: 150px;
+    height:50px;
+    background-color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px 0px 10px 40px;
+    float: left;
+    transition: 2s;
+    border-radius: 10px;
+
+}
+.menus:hover{
+    background-color: #233;
+    color:red;
+}
+.slider{
+    width: 1200px;
+    height: 450px;
+    background-color: #eee;
+}
+.main{
+    width: 1200px;
+    background-color: #fff;
+    float: left;
+
+}
+.mleft{
+    width: 250px;
+   height: 500px;
+    background-color: blue;
+    float: left;
+}
+.lmenus{
+    width: 150px;
+    height:50px;
+    background-color:white;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px 0px 10px 40px;
+    float: left;
+    }
+    red{
+        color:red
+
+    }
+    .lmenus:hover{
+        margin:10px 0px 10px 20px ;
+        background-color: darkolivegreen;
+        
+    }
+.mright{
+  width: 948px;
+  min-height: 450px;
+  background-color: pink;
+  float: right;
+  text-align: justify;
+  font-size: 22px;
+  border-left: dotted 2px black;
+}
+.mm{
+    width: 250px;
+    height: 450px;
+    background-color: blue;
+}
+.footer{
+    width: 1200px;
+    height: 150px;
+    background-color: darkslateblue;
+    clear: both;
+}
+.fmenus{
+    float: left;
+    height: auto;
+   
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border-right: 2px solid #fff;
+    padding: 10px;
+}
+.m1{
+margin-left: 600px;    
+}
+.bn{
+    border:none;
+}
+.gimage{
+    width: 200px;
+    height: 150px;
+    background-color:#fff;
+    float: left;
+    margin: 30px 30px;
+}
+.gimage:hover
+{
+opacity: 0.8;
+transform: scale(1.5,1.5);
+transition: 2s;
+
+}
+.curow{
+    width: 700;
+    height: 50;
+    background-color: #ccc;
+    margin :40px;
+}
+.culeft{
+    width: 200;
+    height: 50;
+    background-color: white;
+    float: left;
+    text-align: center;
+}
+.curight{
+    width: 498;
+    height: 50;
+    background-color: #ccc;
+    float:right;
+    border-left: 1px solid red;
+    
+}
+.pn{
+    padding: 0px;
+}
+.input{
+    width: 500px;
+    height:40px;
+    font-size: 22px;
+}
+.ht100{
+    
+    height:40px;
+}
+.tarea{
+width: 500px;
+height: 50px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+
+    margin: 10px;
+    background-color: rgba(103, 57, 147, 0.777);
+    color: rgb(12, 12, 13);
+}
+.la{
+    height: 1025px;
+    width: 250px;
+    background-color: blue;
+}
+.ll1{
+    height: 450px;
+    width:250px;
+    background-color: blue;
+
+}
+.bu{
+    height: 530px;
+    width:250px;
+    background-color: blue;
+ 
+}
